@@ -1,0 +1,22 @@
+{
+  "name": "projet-003",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "http-server -p 1234"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cath-dev/projet-003.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cath-dev/projet-003/issues"
+  },
+  "homepage": "https://github.com/cath-dev/projet-003#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
